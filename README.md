@@ -206,34 +206,41 @@ INSIGHTS: **2 Days.**
 
 **Key Business Questions to Solve:**
 #### 1. Complaint Trends & Seasonality
--- **Do consumer complaints show any seasonal patterns (e.g., more complaints during certain months)?**
+** ✅ Do consumer complaints show any seasonal patterns (e.g., more complaints during certain months)?**
 
-INSIGHTS: This analysis indicates that the highest volume of complaints occurred in the **third quarter (QT3) with 16,923 complaints**, 
-while the fourth quarter (QT4) experienced the lowest at 14,204 complaints. The Seasonal patterns in consumer complaints can be influenced by various factors, 
+**INSIGHTS:** This analysis indicates that the highest volume of complaints occurred in the **third quarter (QT3) with 16,923 complaints**, 
+while the **fourth quarter (QT4) experienced the lowest at 14,204 complaints**. The Seasonal patterns in consumer complaints can be influenced by various factors, 
 including financial stress during certain times of the year. A study by Lending Club found that 36% of consumers experience the most financial distress in December, 
 primarily due to increased spending during events and celebrations. This heightened financial strain could lead to a higher number of complaints during the fourth quarter. 
 However, the data presented here shows a decrease in complaints during QT4, which may suggest that factors other than financial distress, such as improved customer service or seasonal promotions, 
 could have contributed to this decline.
 
-✅ How have complaint volumes changed over time from 2017 to 2023?
-INSIGHTS: Analyzing the annual percentage changes in Bank of America's consumer complaint volumes from 2017 to 2023 reveals notable fluctuations: 2018: +45.94%, 2019: -10.12%, 2020: +26.39%, 2021: +24.68%, 2022: +16.18%, 2023: -29.51%.
-These figures suggest a significant increase in complaints during the early years, peaking in 2018, followed by a decline in 2019. The subsequent years (2020–2022) saw a resurgence in complaint volumes, with a sharp decrease in 2023.
-2018 Peak: The sharp rise in complaints in 2018 could be attributed to increased consumer awareness and reporting, as well as potential service issues during that period.
-2019 Decline: The decrease in 2019 might indicate improvements in customer service or a reduction in systemic issues that previously led to complaints.
-2020–2022 Increase: The upward trend in complaints from 2020 to 2022 could be linked to the challenges posed by the COVID-19 pandemic, including financial hardships and increased reliance on digital banking services, which may have exposed new issues.
-2023 Decline: The significant drop in 2023 may reflect improvements in complaint resolution processes, enhanced customer service strategies, or changes in consumer behavior and expectations.
-✅ Are certain states reporting more complaints than others?
-INSIGHTS: Yes, certain states are reporting significantly more consumer complaints against Bank of America than others. The top five states with the highest complaint volumes are: California (CA): 13,709 complaints, Florida (FL): 6,488 complaints, Texas (TX): 4,686 complaints, New York (NY): 4,442 complaints, Georgia (GA): 2,921 complaints. 
+**✅ How have complaint volumes changed over time from 2017 to 2023?**
+
+**INSIGHTS:** Analyzing the annual percentage changes in Bank of America's consumer complaint volumes from 2017 to 2023 reveals notable fluctuations: 
+**2018:** +45.94%,**2019:** -10.12%, **2020:** +26.39%, **2021:** +24.68%, **2022:** +16.18%, **2023:** -29.51%.
+These figures suggest a significant increase in complaints during the early years, peaking in 2018, followed by a decline in 2019. 
+The subsequent years (2020–2022) saw a resurgence in complaint volumes, with a sharp decrease in 2023.
+**2018 Peak:** The sharp rise in complaints in 2018 could be attributed to increased consumer awareness and reporting, as well as potential service issues during that period.
+**2019 Decline:** The decrease in 2019 might indicate improvements in customer service or a reduction in systemic issues that previously led to complaints.
+**2020–2022 Increase:** The upward trend in complaints from 2020 to 2022 could be linked to the challenges posed by the COVID-19 pandemic, 
+including financial hardships and increased reliance on digital banking services, which may have exposed new issues.
+**2023 Decline:** The significant drop in 2023 may reflect improvements in complaint resolution processes, enhanced customer service strategies, or changes in consumer behavior and expectations.
+
+**✅ Are certain states reporting more complaints than others?**
+
+**INSIGHTS:** Yes, certain states are reporting significantly more consumer complaints against Bank of America than others. The top five states with the highest complaint volumes are: **California (CA):** 13,709 complaints, **Florida (FL):** 6,488 complaints, **Texas (TX):** 4,686 complaints, **New York (NY):** 4,442 complaints, **Georgia (GA):** 2,921 complaints. 
 These figures suggest that consumer dissatisfaction is notably higher in these states compared to others. California, in particular, stands out with more than twice the number of complaints as Florida, the second-highest state.
+
 Possible Factors Contributing to Regional Disparities
 Several factors could explain why certain states report more complaints:
-•	Population Size and Density: Larger populations, such as California's, naturally lead to more interactions with financial institutions, potentially resulting in a higher number of complaints.
+-	Population Size and Density: Larger populations, such as California's, naturally lead to more interactions with financial institutions, potentially resulting in a higher number of complaints.
 Economic Activity: States with higher economic activity and a greater number of financial transactions may experience more issues, leading to increased complaint volumes.
 Consumer Awareness and Advocacy and Bank Branch Density in certain states can lead to more complaints.
 
-2. Product & Issue Analysis
-✅ Which financial products receive the most complaints?
-INSIGHTS: The products with the highest complaint volumes are: Checking or Savings Accounts: 24,814 complaints, Credit Cards or Prepaid Cards: 16,197 complaints, Credit Reporting, Credit Repair Services, or Other , Personal Consumer Reports: 7,710 complaints, Mortgages: 6,601 complaints, Money Transfer, Virtual Currency, or Money Services: 3,453 complaints, Debt Collection: 2,736 complaints, Vehicle Loans or Leases: 633 complaints, Payday Loans, Title Loans, or Personal Loans: 333 complaints , Student Loans: 39 complaints.
+#### 2. Product & Issue Analysis
+**✅ Which financial products receive the most complaints?**
+**INSIGHTS:** The products with the highest complaint volumes are: **Checking or Savings Accounts:** 24,814 complaints, **Credit Cards or Prepaid Cards:** 16,197 complaints, **Credit Reporting, Credit Repair Services, or Other , Personal Consumer Reports: 7,710 complaints, Mortgages: 6,601 complaints, Money Transfer, Virtual Currency, or Money Services: 3,453 complaints, Debt Collection: 2,736 complaints, Vehicle Loans or Leases: 633 complaints, Payday Loans, Title Loans, or Personal Loans: 333 complaints , Student Loans: 39 complaints.
 High Complaint Categories:
 •	Checking or Savings Accounts: These accounts are fundamental to daily banking, leading to frequent customer interactions and, potentially, more opportunities for issues to arise.
 •	Credit Cards or Prepaid Cards: Given their widespread use, especially during economic fluctuations, it's not surprising that they generate a substantial number of complaints.
