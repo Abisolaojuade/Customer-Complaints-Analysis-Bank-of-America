@@ -235,30 +235,136 @@ These figures suggest that consumer dissatisfaction is notably higher in these s
 Possible Factors Contributing to Regional Disparities
 Several factors could explain why certain states report more complaints:
 -	Population Size and Density: Larger populations, such as California's, naturally lead to more interactions with financial institutions, potentially resulting in a higher number of complaints.
-Economic Activity: States with higher economic activity and a greater number of financial transactions may experience more issues, leading to increased complaint volumes.
-Consumer Awareness and Advocacy and Bank Branch Density in certain states can lead to more complaints.
+- Economic Activity: States with higher economic activity and a greater number of financial transactions may experience more issues, leading to increased complaint volumes.
+- Consumer Awareness and Advocacy and Bank Branch Density in certain states can lead to more complaints.
 
 #### 2. Product & Issue Analysis
 **✅ Which financial products receive the most complaints?**
-**INSIGHTS:** The products with the highest complaint volumes are: **Checking or Savings Accounts:** 24,814 complaints, **Credit Cards or Prepaid Cards:** 16,197 complaints, **Credit Reporting, Credit Repair Services, or Other , Personal Consumer Reports: 7,710 complaints, Mortgages: 6,601 complaints, Money Transfer, Virtual Currency, or Money Services: 3,453 complaints, Debt Collection: 2,736 complaints, Vehicle Loans or Leases: 633 complaints, Payday Loans, Title Loans, or Personal Loans: 333 complaints , Student Loans: 39 complaints.
-High Complaint Categories:
-•	Checking or Savings Accounts: These accounts are fundamental to daily banking, leading to frequent customer interactions and, potentially, more opportunities for issues to arise.
-•	Credit Cards or Prepaid Cards: Given their widespread use, especially during economic fluctuations, it's not surprising that they generate a substantial number of complaints.
-Moderate Complaint Categories:
-•	Credit Reporting and Mortgages: These products are complex and can significantly impact consumers' financial well-being, making them prone to disputes and misunderstandings.
-•	Money Transfer and Debt Collection Services: The increasing use of digital payment methods and the sensitivity of debt-related issues contribute to the volume of complaints in these areas.
-Lower Complaint Categories:
-•	Vehicle Loans, Payday Loans, Personal Loans, and Student Loans: The relatively low complaint numbers could be attributed to these products being less prevalent among Bank of America's customer base or possibly due to more straightforward terms and conditions.
-✅ What are the most common issues reported for each product?
-INSIGHTS: Analyzing the consumer complaints data against Bank of America reveals the most common issues reported for each financial product:
-•	Checking or Savings Account (15,109 complaints): The predominant concern is "Managing an account," which encompasses difficulties with account maintenance, unauthorized transactions, and issues related to account features.
-•	Credit Card or Prepaid Card (4,415 complaints): The most frequent problem involves "Problems with purchases shown on your statement," including disputes over unauthorized charges, dissatisfaction with purchased goods or services, and challenges in the chargeback process.  
-•	Credit Reporting, Credit Repair Services, or Other Personal Consumer Reports (4,145 complaints): Consumers mainly report "Incorrect information on your report," such as inaccuracies, outdated information, or fraudulent entries affecting their creditworthiness.
-•	Debt Collection (1,351 complaints): The chief issue is "Attempts to collect debt not owed," involving cases where consumers are pursued for debts they do not recognize, possibly due to identity theft, payments already made, or debts discharged in bankruptcy.  
-•	Money Transfer, Virtual Currency, or Money Service (1,951 complaints): The leading concern is "Fraud or scam," including unauthorized transactions, deceptive practices, and challenges in recovering funds lost to fraudulent activities.
-•	Mortgage (2,827 complaints): The most common issue is "Trouble during payment process," covering difficulties with payment processing, misapplied payments, and challenges in managing escrow accounts.
-•	Payday Loan, Title Loan, or Personal Loan (71 complaints): Consumers primarily face issues related to "Getting a line of credit," including challenges in obtaining loans, understanding terms, and concerns over high-interest rates.
-•	Student Loan (20 complaints): The predominant problem is "Dealing with your lender or servicer," encompassing issues like loan servicing errors, communication difficulties, and disputes over loan terms.
-•	Vehicle Loan or Lease (222 complaints): The main concern is "Managing the loan or lease," including issues with payment processing, account management, and disputes over loan terms or lease agreements.
 
+**INSIGHTS:** The products with the highest complaint volumes are: **Checking or Savings Accounts:** 24,814 complaints, **Credit Cards or Prepaid Cards:** 16,197 complaints, **Credit Reporting, Credit Repair Services, or Other , Personal Consumer Reports: 7,710 complaints, Mortgages: 6,601 complaints, Money Transfer, Virtual Currency, or Money Services: 3,453 complaints, Debt Collection: 2,736 complaints, Vehicle Loans or Leases: 633 complaints, Payday Loans, Title Loans, or Personal Loans: 333 complaints , Student Loans: 39 complaints.
+
+High Complaint Categories:
+-	Checking or Savings Accounts: These accounts are fundamental to daily banking, leading to frequent customer interactions and, potentially, more opportunities for issues to arise.
+-	Credit Cards or Prepaid Cards: Given their widespread use, especially during economic fluctuations, it's not surprising that they generate a substantial number of complaints.
+
+Moderate Complaint Categories:
+-	Credit Reporting and Mortgages: These products are complex and can significantly impact consumers' financial well-being, making them prone to disputes and misunderstandings.
+-	Money Transfer and Debt Collection Services: The increasing use of digital payment methods and the sensitivity of debt-related issues contribute to the volume of complaints in these areas.
+
+Lower Complaint Categories:
+-	Vehicle Loans, Payday Loans, Personal Loans, and Student Loans: The relatively low complaint numbers could be attributed to these products being less prevalent among Bank of America's customer base or possibly due to more straightforward terms and conditions.
+
+**✅ What are the most common issues reported for each product?**
+
+**INSIGHTS:** Analyzing the consumer complaints data against Bank of America reveals the most common issues reported for each financial product:
+-	**Checking or Savings Account (15,109 complaints):** The predominant concern is "Managing an account," which encompasses difficulties with account maintenance, unauthorized transactions, and issues related to account features.
+- **Credit Card or Prepaid Card (4,415 complaints):** The most frequent problem involves "Problems with purchases shown on your statement," including disputes over unauthorized charges, dissatisfaction with purchased goods or services, and challenges in the chargeback process.  
+- **Credit Reporting, Credit Repair Services, or Other Personal Consumer Reports (4,145 complaints):** Consumers mainly report "Incorrect information on your report," such as inaccuracies, outdated information, or fraudulent entries affecting their creditworthiness.
+- **Debt Collection (1,351 complaints):** The chief issue is "Attempts to collect debt not owed," involving cases where consumers are pursued for debts they do not recognize, possibly due to identity theft, payments already made, or debts discharged in bankruptcy.  
+-	**Money Transfer, Virtual Currency, or Money Service (1,951 complaints):** The leading concern is "Fraud or scam," including unauthorized transactions, deceptive practices, and challenges in recovering funds lost to fraudulent activities.
+-	**Mortgage (2,827 complaints):** The most common issue is "Trouble during payment process," covering difficulties with payment processing, misapplied payments, and challenges in managing escrow accounts.
+-	**Payday Loan, Title Loan, or Personal Loan (71 complaints):** Consumers primarily face issues related to "Getting a line of credit," including challenges in obtaining loans, understanding terms, and concerns over high-interest rates.
+-	**Student Loan (20 complaints):** The predominant problem is "Dealing with your lender or servicer," encompassing issues like loan servicing errors, communication difficulties, and disputes over loan terms.
+-	**Vehicle Loan or Lease (222 complaints):** The main concern is "Managing the loan or lease," including issues with payment processing, account management, and disputes over loan terms or lease agreements.
+
+**✅ Are certain sub-products more prone to complaints?**
+
+**INSIGHTS:** Certain sub-products are more prone to complaints. Analysis of consumer complaint data indicates that checking accounts (20,768 complaints) are the most frequent source of dissatisfaction, accounting for a significant portion of complaints. Issues often reported include difficulties in account management, unauthorized transactions, and problems with deposits and withdrawals.  
+Following checking accounts, general-purpose credit cards or charge cards (13,404 complaints )also receive a substantial number of complaints, with common issues related to misleading credit terms, high fees, and disputes over charges. Additionally, credit reporting services (7,340  complaints)attract complaints concerning inaccuracies in credit reports, identity theft concerns, and disputes over debt validations. 
+
+**✅ Which issues escalate frequently (i.e., result in repeated complaints)?**
+**INSIGHTS:** Analyzing the frequency of repeated complaints reveals that certain issues tend to escalate more than others. The top five issues with the highest number of complaints are:
+
+- **Managing an Account (15,109 complaints):** This category includes difficulties with account maintenance, unauthorized transactions, and issues related to account features.
+
+- **Incorrect Information on Your Report (4,931 complaints):** Consumers report inaccuracies, outdated information, or fraudulent entries affecting their creditworthiness.
+
+- **Problems with a Purchase Shown on Your Statement (4,415 complaints):** Disputes over unauthorized charges, dissatisfaction with purchased goods or services, 
+and challenges in the chargeback process are common concerns.
+
+- **Closing an Account (2,953 complaints):** Issues arise when accounts are closed without proper notice, leading to unexpected fees or continued charges. 
+
+- **Trouble During Payment Process (2,827 complaints):** Consumers face challenges with payment processing, misapplied payments, and difficulties in managing escrow accounts.
+
+These issues are more likely to escalate due to their direct impact on consumers' financial well-being and the complexity involved in resolving them. 
+
+#### 3. Company Response & Resolution Patterns
+
+**✅ What percentage of complaints receive a timely response?**
+
+**INSIGHTS:** Based on the data provided, **approximately 93.77% of complaints receive a timely response, while 2.39% are awaiting a response, and 3.84% receive untimely responses.**
+High Timeliness Rate: A timely response rate of nearly 94% indicates a strong commitment to addressing customer complaints promptly.
+
+Areas for Improvement:
+**Awaiting Responses (2.39%):** While a small fraction, it's essential to address these delays to enhance customer satisfaction.
+
+**Untimely Responses (3.84%):** This segment represents a notable opportunity for improvement. Analyzing the causes of these delays can help in implementing strategies to ensure all complaints are addressed promptly.
+
+**✅ How are most complaints resolved? (e.g., Closed with explanation, Closed with monetary relief?)**
+
+**INSIGHTS:** The majority of complaints are resolved with an explanation, accounting for 41,044 cases, which represents the most common resolution type.
+- High reliance on explanations: Over 63% of complaints are closed simply with an explanation, suggesting Bank of America is often addressing issues by clarifying situations rather than offering compensation or corrective action.
+- Monetary and non-monetary relief: Combined, these types account for around 31% of cases. This suggests that in roughly 1 out of 3 situations, some form of customer benefit or rectification is deemed necessary.
+- Low unresolved cases: Only 2.3% of complaints are still in progress, and unresolved closures without context (just "Closed") are rare, indicating good case follow-through.
+
+#### 4. Untimely Responses & Their Impact
+**✅ Are there patterns in untimely responses?**
+
+**INSIGHTS:**
+- **Weekdays vs. Weekends:** The highest number of untimely responses occur during weekdays, particularly Thursday (468), followed by Tuesday (426) and Wednesday (420).
+  
+- **Drop on Weekends:** There's a significant drop on Saturday (195) and Sunday (143). This could be due to reduced staffing or processing activity during the weekend, 
+which might delay the start of the response process and affect weekday performance.
+
+- **Thursday Peak:** The spike on Thursdays might indicate a bottleneck or workload accumulation midweek—possibly due to complaints piling up earlier in the week and deadlines being missed.
+
+**✅ Do specific complaint types or products tend to have delayed responses?**
+
+**INSIGHTS**
+- **Checking/Savings Accounts Lead in Delays:** With 867 untimely responses, complaints related to checking or savings accounts are the most likely to face delays. 
+This could reflect internal delays in verifying account data, resolving fraud claims, or managing transaction disputes.
+
+- **Credit Card and Credit Reporting Issues Also Affected:** Credit card/prepaid card complaints (689 delays) and Credit reporting or repair services (475 delays) also show high untimely response counts, 
+suggesting these areas may involve more complex investigation or third-party coordination (e.g., with credit bureaus).
+
+- **High Volume ≠ Efficiency:** These product types likely receive higher overall complaint volumes, but the fact that they also top the list for delays suggests a service delivery gap—perhaps insufficient staff allocation or complicated resolution processes.
+
+**✅ Are certain states more likely to receive untimely responses?**
+
+**INSIGHTS:** **California Dominates:** With 599 untimely responses, California (CA) has more than 2x the delays of the next state (Florida). This might be due to: A higher population and customer base, 
+More complaints in general and Potentially localized service issues or staffing/resource challenges.
+**Regional Hotspots:** The top four—CA, FL, NY, and TX—are all high-population states, which makes their appearance expected, but the disproportionately high number from CA suggests potential regional inefficiencies.
+New Jersey’s High Rate: While NJ is smaller in population, it still shows 93 untimely responses, which could indicate a higher rate of delay per complaint and might be worth deeper investigation.
+
+#### 5. Submission Channel & Processing Time
+
+**✅ Which submission channels (e.g., Phone, Email, Online) generate the most complaints?**
+
+**INSIGHTS:** 
+**Web Dominates Complaint Submissions:** The Web channel is by far the most used, accounting for over 72% of all complaints. 
+
+This shows that customers strongly prefer the convenience of online self-service portals to file complaints.
+- **Referrals Are the Second-Most Common:** With 10,766 complaints, referrals (likely from third-party sites or regulatory bodies) are significant. This might indicate that:
+
+- Some customers don’t trust or prefer BoA’s internal submission systems.
+-	Third-party channels may offer better guidance or support.
+-	Phone and Mail Still in Use: Though less popular, Phone (4,684) and Postal Mail (1,318) still serve a portion of users—possibly those who are less tech-savvy, or when the complaint needs a more personalized or formal approach.
+- Fax and Email Nearly Obsolete: Fax (233) and Email (2) are rarely used, showing a shift away from older or less structured communication formats.
+
+**✅ Does submission method affect response time?**
+
+**Insight: Web-Based and Digital Channels Get the Fastest Responses:**
+-	Complaints submitted through Web, Web Referral, Fax, and Email receive responses in an average of 1 day, indicating that digital submissions are likely integrated into automated or high-priority workflows.
+- Referral and Traditional Channels Take Longer: Referral-based complaints take an average of 4 days, likely because they come from third-party sources or external regulators, adding steps to the processing workflow.
+- Phone and Postal Mail take around 2 days, which may reflect the manual nature of logging and routing these complaints.
+
+**✅ How long does it take, on average, for the company to respond to a complaint?**
+
+**INSIGHTS:** **Fast Response Time Overall:** An average of 2 days to respond indicates that Bank of America maintains a fairly efficient complaint handling process, especially when compared to industry standards, 
+where 5–7 days is more typical.
+
+---
+
+## Dashboard
+The image below is the Dashboard for my anlysis
 
