@@ -95,6 +95,10 @@ Key Business Questions to Solve:
 
 ---
 
+-![Screenshot 2025-05-06 144403](https://github.com/user-attachments/assets/c9023c0c-8f3e-44bc-83b8-d96c45bfc8bf)
+
+--
+
 ## DATA CLEANING AND TRANSFORMATION
 I started by renaming the table name from Copy_consumer_complaints to Customer complaints
  Rename table copy_consumer_complaints to Customer_Complaints;
