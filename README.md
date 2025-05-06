@@ -11,8 +11,8 @@
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Dashboard](#Dashboard)
-- [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
+- [Recommendation](#Recommendation)
 
 ---
 
