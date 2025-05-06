@@ -29,7 +29,7 @@ This repository contains the SQL queries used for data extraction and transforma
 
 ---
 
-## Project overview
+## Dataset overview
 
 The dataset includes the following columns:
 
@@ -47,6 +47,7 @@ The dataset includes the following columns:
 - Timely response: Whether the company gave a timely response (Yes/No).
 
 ---
+
 ## Project Objective
 SQL Queries & Insights: Answering the key business questions.
  Power BI Dashboard: Data visualization of complaint trends and response patterns
@@ -94,7 +95,7 @@ Key Business Questions to Solve:
 
 ---
 
-## DATA CLEANING
+## DATA CLEANING AND TRANSFORMATION
 I started by renaming the table name from Copy_consumer_complaints to Customer complaints
  Rename table copy_consumer_complaints to Customer_Complaints;
 
@@ -407,7 +408,7 @@ regional inefficiencies, and submission channel optimization, the bank can furth
 
 ---
 
-## Recommendations
+## Recommendation
 
 **1.	Address Seasonal Trends and Complaint Volume Variations**: 	
 - Adjust staffing and resources to align with peak complaint seasons, particularly during Q3, when complaints tend to peak. 
